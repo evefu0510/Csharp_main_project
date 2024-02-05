@@ -1,0 +1,15 @@
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\bin\Debug\net6.0\finalProject.exe
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\bin\Debug\net6.0\finalProject.deps.json
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\bin\Debug\net6.0\finalProject.runtimeconfig.json
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\bin\Debug\net6.0\finalProject.dll
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\bin\Debug\net6.0\finalProject.pdb
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\finalProject.csproj.AssemblyReference.cache
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\finalProject.AssemblyInfoInputs.cache
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\finalProject.AssemblyInfo.cs
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\finalProject.dll
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\refint\finalProject.dll
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\finalProject.pdb
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\finalProject.genruntimeconfig.cache
+C:\Users\evefu\Desktop\C#\finalProject_FUYIJUN\finalProject\obj\Debug\net6.0\ref\finalProject.dll

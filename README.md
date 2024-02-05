@@ -1,0 +1,1 @@
+I developed a C# text-based adventure game with dynamic storytelling, turn-based combat, and weapon selection. Players navigate a castle, battle a dragon, and make critical choices. Completing the game unlocks a hidden story path. I achieved full marks in this project.
